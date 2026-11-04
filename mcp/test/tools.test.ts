@@ -42,10 +42,18 @@ test("a read-only token can't preview or apply", async () => {
   assert.equal(patches.length, 0);
 });
 
-test("set_session_length sets the policy", async () => {
+test("set_session_length shows the change, then applies it", async () => {
   const { patches } = fakePlatform();
-  await setSessionLengthTool.handler({ hours: 8 });
+  assert.match(await setSessionLengthTool.handler({ hours: 8 }), /session-length-hours goes from 24 to 8/);
+  assert.equal(patches.length, 0);
+  await setSessionLengthTool.handler({ hours: 8, confirm: true });
   assert.deepEqual(patches, [{ type: "policy", id: "session-length-hours", value: 8 }]);
+});
+
+test("a read-only token can't set the session length", async () => {
+  const { patches } = fakePlatform("read");
+  await assert.rejects(setSessionLengthTool.handler({ hours: 8, confirm: true }), /read-only/);
+  assert.equal(patches.length, 0);
 });
 
 test("copy_group_access shows the change, then applies it", async () => {
