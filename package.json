@@ -12,6 +12,7 @@
     "test-environment:tokens": "node test-environment/tokens.ts",
     "baseline:check": "node tools/baseline-check.ts",
     "live-check": "node tools/live-check.ts",
-    "test": "node --test \"mcp/test/*.test.ts\""
+    "test": "node --test \"mcp/test/*.test.ts\"",
+    "lint": "node tools/lint.ts"
   }
 }
