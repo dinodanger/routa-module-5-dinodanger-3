@@ -1,0 +1,70 @@
+{
+  "owner": "Tuomas Hirvikoski, IT",
+  "agreed": "2026-10-20",
+  "access": {
+    "all-staff": [
+      "documents",
+      "timesheets"
+    ],
+    "dept-analytics": [
+      "bi"
+    ],
+    "dept-consulting": [],
+    "dept-finance": [
+      "finance"
+    ],
+    "dept-it": [
+      "it-admin"
+    ],
+    "dept-operations": [
+      "crm"
+    ],
+    "dept-people": [
+      "hr"
+    ],
+    "eng-hiidenkivi": [
+      "hiidenkivi-portal"
+    ],
+    "eng-lumivaara": [
+      "lumivaara-portal"
+    ],
+    "eng-merivirta": [
+      "merivirta-portal"
+    ],
+    "eng-tammiranta": [
+      "tammiranta-portal"
+    ],
+    "ext-contractors": [
+      "timesheets"
+    ],
+    "managers": [
+      "crm"
+    ],
+    "partners": [
+      "crm",
+      "finance"
+    ]
+  },
+  "policies": {
+    "mfa.all-staff": true,
+    "mfa.dept-analytics": true,
+    "mfa.dept-consulting": true,
+    "mfa.dept-finance": true,
+    "mfa.dept-it": true,
+    "mfa.dept-operations": true,
+    "mfa.dept-people": true,
+    "mfa.eng-hiidenkivi": true,
+    "mfa.eng-lumivaara": true,
+    "mfa.eng-merivirta": true,
+    "mfa.eng-tammiranta": true,
+    "mfa.ext-contractors": true,
+    "mfa.managers": true,
+    "mfa.partners": true,
+    "session-length-hours": 8,
+    "legacy-sign-in": false,
+    "guest-access": "invite-only",
+    "password-min-length": 14,
+    "token-lifetime-days": 90,
+    "audit-log-days": 365
+  }
+}

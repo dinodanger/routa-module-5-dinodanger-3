@@ -1,0 +1,239 @@
+[
+ {
+  "id": "6533746d-af59-5dbd-a3dc-8f13da02f2de",
+  "displayName": "all-staff",
+  "apps": [
+   "documents",
+   "timesheets"
+  ],
+  "members": [
+   "b4688072-e104-5b18-9ddf-2ec96545ee22",
+   "f4fce587-8403-52eb-b70e-8cd7f88f4046",
+   "0ea903ac-f751-5ade-8e63-c317aa1d3e0e",
+   "71ad66f9-ae22-5ff3-ba6a-b8ed79dc9418",
+   "58246f0d-0ca9-5a87-a6f1-12f424938673",
+   "b9d087d1-0a3f-51da-916d-a054be2bcbed",
+   "76ab8561-4f22-57a5-a586-52b18aea444d",
+   "00544c1f-e274-59d5-b7c4-25d0eae536ea",
+   "95e0c933-96f8-5eb2-9952-59bcc2386769",
+   "ef9fda58-aaf1-5570-add5-2e3a4ccac187",
+   "2a460d3b-64f3-5eca-8e32-d2535a9d5e5b",
+   "78613a97-aa20-51fb-9474-fed93024f10b",
+   "ba6ea63d-43e3-5a5d-a104-2c62b2c7bbab",
+   "dad08f23-598c-5167-b30e-fcc398ff3260",
+   "f016b8f8-69fb-5138-9083-abf21c208f4c",
+   "cadcca19-3b3c-5235-ad83-a15fa657bf38",
+   "f7b306b6-3b7c-59ce-8680-972ba98a605b",
+   "9b64489c-45a0-57f5-b8df-3325989171b4",
+   "0e267897-a61a-5e65-b576-72a596d0acd2",
+   "0115e94a-968c-53a9-be4b-20497520947c",
+   "ecc956d1-7480-550b-87e4-73dfeb8fc5b7",
+   "c737b4c2-9ebb-5824-8fbd-4b6dc07bebd8",
+   "fbba4c77-26a1-594f-a579-88dfbcc0ae9a",
+   "c2ba8633-6f2c-5914-be17-79a9ba0eccf1",
+   "0c699d04-415b-519a-a596-53f705575e27",
+   "6d405af8-1f9b-5241-8ef4-3408449f92d8",
+   "5388046d-f2db-5c67-846b-20857838bd40",
+   "c92f6c57-c3fd-5c8d-bb13-1f40aa800862",
+   "d3515c50-56a2-5c30-9fe3-648d74190a35",
+   "5b4b0298-27c7-5910-ac48-9915b52f1001",
+   "43ecc97c-efc3-50ea-8b89-a4419d58388b",
+   "8522a703-9392-5b02-92d4-ef938d2b5a5c",
+   "3d2981cf-c72c-5a3f-a648-89420c7cf7a7",
+   "befb9705-fd23-54b8-aa38-2bac1796bdd6"
+  ]
+ },
+ {
+  "id": "0e97490c-3f85-5d4c-b6be-a418f6976fc3",
+  "displayName": "dept-analytics",
+  "apps": [
+   "bi",
+   "hr"
+  ],
+  "members": [
+   "ecc956d1-7480-550b-87e4-73dfeb8fc5b7",
+   "c737b4c2-9ebb-5824-8fbd-4b6dc07bebd8",
+   "fbba4c77-26a1-594f-a579-88dfbcc0ae9a",
+   "c2ba8633-6f2c-5914-be17-79a9ba0eccf1",
+   "0c699d04-415b-519a-a596-53f705575e27"
+  ]
+ },
+ {
+  "id": "f83d0d6f-c68b-57de-9abb-f88d0cf96428",
+  "displayName": "dept-consulting",
+  "apps": [],
+  "members": [
+   "b4688072-e104-5b18-9ddf-2ec96545ee22",
+   "f4fce587-8403-52eb-b70e-8cd7f88f4046",
+   "0ea903ac-f751-5ade-8e63-c317aa1d3e0e",
+   "71ad66f9-ae22-5ff3-ba6a-b8ed79dc9418",
+   "58246f0d-0ca9-5a87-a6f1-12f424938673",
+   "b9d087d1-0a3f-51da-916d-a054be2bcbed",
+   "76ab8561-4f22-57a5-a586-52b18aea444d",
+   "00544c1f-e274-59d5-b7c4-25d0eae536ea",
+   "95e0c933-96f8-5eb2-9952-59bcc2386769",
+   "ef9fda58-aaf1-5570-add5-2e3a4ccac187",
+   "2a460d3b-64f3-5eca-8e32-d2535a9d5e5b",
+   "78613a97-aa20-51fb-9474-fed93024f10b",
+   "ba6ea63d-43e3-5a5d-a104-2c62b2c7bbab",
+   "dad08f23-598c-5167-b30e-fcc398ff3260",
+   "f016b8f8-69fb-5138-9083-abf21c208f4c",
+   "cadcca19-3b3c-5235-ad83-a15fa657bf38",
+   "f7b306b6-3b7c-59ce-8680-972ba98a605b",
+   "9b64489c-45a0-57f5-b8df-3325989171b4",
+   "0e267897-a61a-5e65-b576-72a596d0acd2",
+   "0115e94a-968c-53a9-be4b-20497520947c"
+  ]
+ },
+ {
+  "id": "320d90a9-3ede-55ec-94f9-97011d90b03e",
+  "displayName": "dept-finance",
+  "apps": [
+   "finance"
+  ],
+  "members": [
+   "c92f6c57-c3fd-5c8d-bb13-1f40aa800862",
+   "d3515c50-56a2-5c30-9fe3-648d74190a35"
+  ]
+ },
+ {
+  "id": "54a2938a-05d7-5593-9216-a78aa2c8ee82",
+  "displayName": "dept-it",
+  "apps": [
+   "it-admin"
+  ],
+  "members": [
+   "6d405af8-1f9b-5241-8ef4-3408449f92d8",
+   "5388046d-f2db-5c67-846b-20857838bd40"
+  ]
+ },
+ {
+  "id": "93770114-3e12-5e03-a6a2-468b3637d3e1",
+  "displayName": "dept-operations",
+  "apps": [
+   "crm"
+  ],
+  "members": [
+   "5b4b0298-27c7-5910-ac48-9915b52f1001",
+   "43ecc97c-efc3-50ea-8b89-a4419d58388b",
+   "8522a703-9392-5b02-92d4-ef938d2b5a5c"
+  ]
+ },
+ {
+  "id": "53cbbb05-5e4d-50d9-8b1d-93d556fac09b",
+  "displayName": "dept-people",
+  "apps": [
+   "hr"
+  ],
+  "members": [
+   "3d2981cf-c72c-5a3f-a648-89420c7cf7a7",
+   "befb9705-fd23-54b8-aa38-2bac1796bdd6"
+  ]
+ },
+ {
+  "id": "41b067b7-6292-55d7-a424-3751bbf5e645",
+  "displayName": "eng-hiidenkivi",
+  "apps": [
+   "hiidenkivi-portal"
+  ],
+  "members": [
+   "b4688072-e104-5b18-9ddf-2ec96545ee22",
+   "71ad66f9-ae22-5ff3-ba6a-b8ed79dc9418",
+   "00544c1f-e274-59d5-b7c4-25d0eae536ea",
+   "ef9fda58-aaf1-5570-add5-2e3a4ccac187",
+   "ba6ea63d-43e3-5a5d-a104-2c62b2c7bbab",
+   "9b64489c-45a0-57f5-b8df-3325989171b4",
+   "5e458dc3-6d49-5020-8914-87d01f8fd591"
+  ]
+ },
+ {
+  "id": "05fbe113-fb4b-568e-a7a4-ce41b846c294",
+  "displayName": "eng-lumivaara",
+  "apps": [
+   "lumivaara-portal"
+  ],
+  "members": [
+   "0ea903ac-f751-5ade-8e63-c317aa1d3e0e",
+   "b9d087d1-0a3f-51da-916d-a054be2bcbed",
+   "95e0c933-96f8-5eb2-9952-59bcc2386769",
+   "f016b8f8-69fb-5138-9083-abf21c208f4c",
+   "0e267897-a61a-5e65-b576-72a596d0acd2",
+   "fbba4c77-26a1-594f-a579-88dfbcc0ae9a",
+   "05a7f4e5-2d2f-594e-a9ac-47a1bcc90953"
+  ]
+ },
+ {
+  "id": "8c230839-cb33-5bd7-b6d4-d331e749f5f4",
+  "displayName": "eng-merivirta",
+  "apps": [
+   "merivirta-portal"
+  ],
+  "members": [
+   "f4fce587-8403-52eb-b70e-8cd7f88f4046",
+   "76ab8561-4f22-57a5-a586-52b18aea444d",
+   "95e0c933-96f8-5eb2-9952-59bcc2386769",
+   "78613a97-aa20-51fb-9474-fed93024f10b",
+   "f7b306b6-3b7c-59ce-8680-972ba98a605b",
+   "0115e94a-968c-53a9-be4b-20497520947c",
+   "ecc956d1-7480-550b-87e4-73dfeb8fc5b7"
+  ]
+ },
+ {
+  "id": "2973021d-8c9b-5510-91ed-3f57fba837e2",
+  "displayName": "eng-tammiranta",
+  "apps": [
+   "tammiranta-portal"
+  ],
+  "members": [
+   "b4688072-e104-5b18-9ddf-2ec96545ee22",
+   "f4fce587-8403-52eb-b70e-8cd7f88f4046",
+   "58246f0d-0ca9-5a87-a6f1-12f424938673",
+   "00544c1f-e274-59d5-b7c4-25d0eae536ea",
+   "2a460d3b-64f3-5eca-8e32-d2535a9d5e5b",
+   "dad08f23-598c-5167-b30e-fcc398ff3260",
+   "9b64489c-45a0-57f5-b8df-3325989171b4",
+   "ecc956d1-7480-550b-87e4-73dfeb8fc5b7",
+   "0c699d04-415b-519a-a596-53f705575e27"
+  ]
+ },
+ {
+  "id": "5ec735ac-2e23-529f-85c0-51a82de7ca9b",
+  "displayName": "ext-contractors",
+  "apps": [
+   "timesheets",
+   "crm",
+   "finance"
+  ],
+  "members": [
+   "5e458dc3-6d49-5020-8914-87d01f8fd591",
+   "05a7f4e5-2d2f-594e-a9ac-47a1bcc90953"
+  ]
+ },
+ {
+  "id": "3c2d2b09-d1e7-564a-8164-e568ad39aafc",
+  "displayName": "managers",
+  "apps": [
+   "crm",
+   "it-admin"
+  ],
+  "members": [
+   "71ad66f9-ae22-5ff3-ba6a-b8ed79dc9418",
+   "58246f0d-0ca9-5a87-a6f1-12f424938673",
+   "b9d087d1-0a3f-51da-916d-a054be2bcbed",
+   "76ab8561-4f22-57a5-a586-52b18aea444d"
+  ]
+ },
+ {
+  "id": "8652b6d8-785f-5ee9-a94e-3bad77bf3539",
+  "displayName": "partners",
+  "apps": [
+   "crm",
+   "finance"
+  ],
+  "members": [
+   "b4688072-e104-5b18-9ddf-2ec96545ee22",
+   "f4fce587-8403-52eb-b70e-8cd7f88f4046",
+   "0ea903ac-f751-5ade-8e63-c317aa1d3e0e"
+  ]
+ }
+]

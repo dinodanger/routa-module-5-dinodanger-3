@@ -1,0 +1,46 @@
+[
+  {
+    "id": "bi",
+    "name": "Reporting"
+  },
+  {
+    "id": "crm",
+    "name": "CRM"
+  },
+  {
+    "id": "documents",
+    "name": "Documents"
+  },
+  {
+    "id": "finance",
+    "name": "Finance"
+  },
+  {
+    "id": "hiidenkivi-portal",
+    "name": "Hiidenkivi client portal"
+  },
+  {
+    "id": "hr",
+    "name": "HR system"
+  },
+  {
+    "id": "it-admin",
+    "name": "IT admin console"
+  },
+  {
+    "id": "lumivaara-portal",
+    "name": "Lumivaara client portal"
+  },
+  {
+    "id": "merivirta-portal",
+    "name": "Merivirta client portal"
+  },
+  {
+    "id": "tammiranta-portal",
+    "name": "Tammiranta client portal"
+  },
+  {
+    "id": "timesheets",
+    "name": "Timesheets"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "deny": [
+      "Read(~/.routa/**)",
+      "Edit(~/.routa/**)",
+      "Bash(*.routa*)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+collect.log
+test-environment/.data/
+.env*
+node_modules/
+scratch/
+.claude/settings.local.json
+# what we recorded from our own platform while building
+mcp/test/fixtures/local-*

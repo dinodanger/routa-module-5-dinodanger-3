@@ -1,0 +1,102 @@
+[
+ {
+  "id": "mfa.all-staff",
+  "label": "Require MFA for all-staff",
+  "value": true
+ },
+ {
+  "id": "mfa.dept-analytics",
+  "label": "Require MFA for dept-analytics",
+  "value": true
+ },
+ {
+  "id": "mfa.dept-consulting",
+  "label": "Require MFA for dept-consulting",
+  "value": true
+ },
+ {
+  "id": "mfa.dept-finance",
+  "label": "Require MFA for dept-finance",
+  "value": true
+ },
+ {
+  "id": "mfa.dept-it",
+  "label": "Require MFA for dept-it",
+  "value": true
+ },
+ {
+  "id": "mfa.dept-operations",
+  "label": "Require MFA for dept-operations",
+  "value": true
+ },
+ {
+  "id": "mfa.dept-people",
+  "label": "Require MFA for dept-people",
+  "value": true
+ },
+ {
+  "id": "mfa.eng-hiidenkivi",
+  "label": "Require MFA for eng-hiidenkivi",
+  "value": true
+ },
+ {
+  "id": "mfa.eng-lumivaara",
+  "label": "Require MFA for eng-lumivaara",
+  "value": true
+ },
+ {
+  "id": "mfa.eng-merivirta",
+  "label": "Require MFA for eng-merivirta",
+  "value": true
+ },
+ {
+  "id": "mfa.eng-tammiranta",
+  "label": "Require MFA for eng-tammiranta",
+  "value": true
+ },
+ {
+  "id": "mfa.ext-contractors",
+  "label": "Require MFA for ext-contractors",
+  "value": false
+ },
+ {
+  "id": "mfa.managers",
+  "label": "Require MFA for managers",
+  "value": true
+ },
+ {
+  "id": "mfa.partners",
+  "label": "Require MFA for partners",
+  "value": false
+ },
+ {
+  "id": "session-length-hours",
+  "label": "Session length in hours",
+  "value": 24
+ },
+ {
+  "id": "legacy-sign-in",
+  "label": "Allow legacy sign-in",
+  "value": true
+ },
+ {
+  "id": "guest-access",
+  "label": "Guest access",
+  "value": "open"
+ },
+ {
+  "id": "password-min-length",
+  "label": "Minimum password length",
+  "value": 14
+ },
+ {
+  "id": "token-lifetime-days",
+  "label": "API token lifetime in days",
+  "value": 90
+ },
+ {
+  "id": "audit-log-days",
+  "label": "Keep the audit log for days",
+  "value": 365
+ }
+]

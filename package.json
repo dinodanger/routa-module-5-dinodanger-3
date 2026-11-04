@@ -1,0 +1,17 @@
+{
+  "name": "routa-identity-mcp",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "test-environment": "node test-environment/start.ts",
+    "test-environment:reset": "node test-environment/reset.ts",
+    "test-environment:tokens": "node test-environment/tokens.ts",
+    "baseline:check": "node tools/baseline-check.ts",
+    "live-check": "node tools/live-check.ts",
+    "test": "node --test \"mcp/test/*.test.ts\""
+  }
+}

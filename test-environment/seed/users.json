@@ -1,0 +1,335 @@
+[
+  {
+    "id": "b4688072-e104-5b18-9ddf-2ec96545ee22",
+    "userName": "aino.kivela",
+    "externalId": "E1001",
+    "givenName": "Aino",
+    "familyName": "Kivelä",
+    "displayName": "Aino Kivelä",
+    "active": true
+  },
+  {
+    "id": "05a7f4e5-2d2f-594e-a9ac-47a1bcc90953",
+    "userName": "aleksi.mantyla",
+    "externalId": "E1037",
+    "givenName": "Aleksi",
+    "familyName": "Mäntylä",
+    "displayName": "Aleksi Mäntylä",
+    "active": true
+  },
+  {
+    "id": "0115e94a-968c-53a9-be4b-20497520947c",
+    "userName": "anna.lindberg",
+    "externalId": "E1020",
+    "givenName": "Anna",
+    "familyName": "Lindberg",
+    "displayName": "Anna Lindberg",
+    "active": true
+  },
+  {
+    "id": "2a460d3b-64f3-5eca-8e32-d2535a9d5e5b",
+    "userName": "antti.nieminen",
+    "externalId": "E1011",
+    "givenName": "Antti",
+    "familyName": "Nieminen",
+    "displayName": "Antti Nieminen",
+    "active": true
+  },
+  {
+    "id": "43ecc97c-efc3-50ea-8b89-a4419d58388b",
+    "userName": "eeva.saarinen",
+    "externalId": "E1031",
+    "givenName": "Eeva",
+    "familyName": "Saarinen",
+    "displayName": "Eeva Saarinen",
+    "active": true
+  },
+  {
+    "id": "95e0c933-96f8-5eb2-9952-59bcc2386769",
+    "userName": "elina.rautio",
+    "externalId": "E1009",
+    "givenName": "Elina",
+    "familyName": "Rautio",
+    "displayName": "Elina Rautio",
+    "active": true
+  },
+  {
+    "id": "cadcca19-3b3c-5235-ad83-a15fa657bf38",
+    "userName": "emilia.gronroos",
+    "externalId": "E1016",
+    "givenName": "Emilia",
+    "familyName": "Grönroos",
+    "displayName": "Emilia Grönroos",
+    "active": true
+  },
+  {
+    "id": "b9d087d1-0a3f-51da-916d-a054be2bcbed",
+    "userName": "heikki.rasanen",
+    "externalId": "E1006",
+    "givenName": "Heikki",
+    "familyName": "Räsänen",
+    "displayName": "Heikki Räsänen",
+    "active": true
+  },
+  {
+    "id": "5e458dc3-6d49-5020-8914-87d01f8fd591",
+    "userName": "henna.korpela",
+    "externalId": "E1036",
+    "givenName": "Henna",
+    "familyName": "Korpela",
+    "displayName": "Henna Korpela",
+    "active": true
+  },
+  {
+    "id": "f7b306b6-3b7c-59ce-8680-972ba98a605b",
+    "userName": "henrik.wikstrom",
+    "externalId": "E1017",
+    "givenName": "Henrik",
+    "familyName": "Wikström",
+    "displayName": "Henrik Wikström",
+    "active": true
+  },
+  {
+    "id": "0c699d04-415b-519a-a596-53f705575e27",
+    "userName": "james.whitfield",
+    "externalId": "E1025",
+    "givenName": "James",
+    "familyName": "Whitfield",
+    "displayName": "James Whitfield",
+    "active": true
+  },
+  {
+    "id": "ef9fda58-aaf1-5570-add5-2e3a4ccac187",
+    "userName": "jari.makela",
+    "externalId": "E1010",
+    "givenName": "Jari",
+    "familyName": "Mäkelä",
+    "displayName": "Jari Mäkelä",
+    "active": true
+  },
+  {
+    "id": "76ab8561-4f22-57a5-a586-52b18aea444d",
+    "userName": "johanna.ek",
+    "externalId": "E1007",
+    "givenName": "Johanna",
+    "familyName": "Ek",
+    "displayName": "Johanna Ek",
+    "active": true
+  },
+  {
+    "id": "71ad66f9-ae22-5ff3-ba6a-b8ed79dc9418",
+    "userName": "joonas.vartiainen",
+    "externalId": "E1004",
+    "givenName": "Joonas",
+    "familyName": "Vartiainen",
+    "displayName": "Joonas Vartiainen",
+    "active": true
+  },
+  {
+    "id": "d3515c50-56a2-5c30-9fe3-648d74190a35",
+    "userName": "kaisa.lehto",
+    "externalId": "E1029",
+    "givenName": "Kaisa",
+    "familyName": "Lehto",
+    "displayName": "Kaisa Lehto",
+    "active": true
+  },
+  {
+    "id": "c737b4c2-9ebb-5824-8fbd-4b6dc07bebd8",
+    "userName": "katja.mottonen",
+    "externalId": "E1022",
+    "givenName": "Katja",
+    "familyName": "Möttönen",
+    "displayName": "Katja Möttönen",
+    "active": true
+  },
+  {
+    "id": "78613a97-aa20-51fb-9474-fed93024f10b",
+    "userName": "laura.koskinen",
+    "externalId": "E1012",
+    "givenName": "Laura",
+    "familyName": "Koskinen",
+    "displayName": "Laura Koskinen",
+    "active": true
+  },
+  {
+    "id": "fbba4c77-26a1-594f-a579-88dfbcc0ae9a",
+    "userName": "lauri.hakkinen",
+    "externalId": "E1023",
+    "givenName": "Lauri",
+    "familyName": "Häkkinen",
+    "displayName": "Lauri Häkkinen",
+    "active": true
+  },
+  {
+    "id": "ecc956d1-7480-550b-87e4-73dfeb8fc5b7",
+    "userName": "maria.sundqvist",
+    "externalId": "E1021",
+    "givenName": "Maria",
+    "familyName": "Sundqvist",
+    "displayName": "Maria Sundqvist",
+    "active": true
+  },
+  {
+    "id": "5b4b0298-27c7-5910-ac48-9915b52f1001",
+    "userName": "marja.hamalainen",
+    "externalId": "E1030",
+    "givenName": "Marja",
+    "familyName": "Hämäläinen",
+    "displayName": "Marja Hämäläinen",
+    "active": true
+  },
+  {
+    "id": "ba6ea63d-43e3-5a5d-a104-2c62b2c7bbab",
+    "userName": "mikko.poyhonen",
+    "externalId": "E1013",
+    "givenName": "Mikko",
+    "familyName": "Pöyhönen",
+    "displayName": "Mikko Pöyhönen",
+    "active": true
+  },
+  {
+    "id": "3d2981cf-c72c-5a3f-a648-89420c7cf7a7",
+    "userName": "minna.jaaskelainen",
+    "externalId": "E1033",
+    "givenName": "Minna",
+    "familyName": "Jääskeläinen",
+    "displayName": "Minna Jääskeläinen",
+    "active": true
+  },
+  {
+    "id": "befb9705-fd23-54b8-aa38-2bac1796bdd6",
+    "userName": "niklas.holmstrom",
+    "externalId": "E1034",
+    "givenName": "Niklas",
+    "familyName": "Holmström",
+    "displayName": "Niklas Holmström",
+    "active": true
+  },
+  {
+    "id": "f016b8f8-69fb-5138-9083-abf21c208f4c",
+    "userName": "olli.karna",
+    "externalId": "E1015",
+    "givenName": "Olli",
+    "familyName": "Kärnä",
+    "displayName": "Olli Kärnä",
+    "active": true
+  },
+  {
+    "id": "8522a703-9392-5b02-92d4-ef938d2b5a5c",
+    "userName": "oona.kivinen",
+    "externalId": "E1032",
+    "givenName": "Oona",
+    "familyName": "Kivinen",
+    "displayName": "Oona Kivinen",
+    "active": true
+  },
+  {
+    "id": "c92f6c57-c3fd-5c8d-bb13-1f40aa800862",
+    "userName": "paivi.monkkonen",
+    "externalId": "E1028",
+    "givenName": "Päivi",
+    "familyName": "Mönkkönen",
+    "displayName": "Päivi Mönkkönen",
+    "active": true
+  },
+  {
+    "id": "f4fce587-8403-52eb-b70e-8cd7f88f4046",
+    "userName": "pekka.ojanpera",
+    "externalId": "E1002",
+    "givenName": "Pekka",
+    "familyName": "Ojanperä",
+    "displayName": "Pekka Ojanperä",
+    "active": true
+  },
+  {
+    "id": "f4b11ab9-0b82-55dd-9497-6f6c3b9a4af5",
+    "userName": "petri.lindqvist",
+    "externalId": "E1035",
+    "givenName": "Petri",
+    "familyName": "Lindqvist",
+    "displayName": "Petri Lindqvist",
+    "active": false
+  },
+  {
+    "id": "dad08f23-598c-5167-b30e-fcc398ff3260",
+    "userName": "riikka.vaisanen",
+    "externalId": "E1014",
+    "givenName": "Riikka",
+    "familyName": "Väisänen",
+    "displayName": "Riikka Väisänen",
+    "active": true
+  },
+  {
+    "id": "00544c1f-e274-59d5-b7c4-25d0eae536ea",
+    "userName": "sanna.lehtimaki",
+    "externalId": "E1008",
+    "givenName": "Sanna",
+    "familyName": "Lehtimäki",
+    "displayName": "Sanna Lehtimäki",
+    "active": true
+  },
+  {
+    "id": "9b64489c-45a0-57f5-b8df-3325989171b4",
+    "userName": "satu.ylonen",
+    "externalId": "E1018",
+    "givenName": "Satu",
+    "familyName": "Ylönen",
+    "displayName": "Satu Ylönen",
+    "active": true
+  },
+  {
+    "id": "c2ba8633-6f2c-5914-be17-79a9ba0eccf1",
+    "userName": "sofia.nystrom",
+    "externalId": "E1024",
+    "givenName": "Sofia",
+    "familyName": "Nyström",
+    "displayName": "Sofia Nyström",
+    "active": true
+  },
+  {
+    "id": "58246f0d-0ca9-5a87-a6f1-12f424938673",
+    "userName": "tiina.soderholm",
+    "externalId": "E1005",
+    "givenName": "Tiina",
+    "familyName": "Söderholm",
+    "displayName": "Tiina Söderholm",
+    "active": true
+  },
+  {
+    "id": "0e267897-a61a-5e65-b576-72a596d0acd2",
+    "userName": "tomi.lahteenmaki",
+    "externalId": "E1019",
+    "givenName": "Tomi",
+    "familyName": "Lähteenmäki",
+    "displayName": "Tomi Lähteenmäki",
+    "active": true
+  },
+  {
+    "id": "6d405af8-1f9b-5241-8ef4-3408449f92d8",
+    "userName": "tuomas.hirvikoski",
+    "externalId": "E1026",
+    "givenName": "Tuomas",
+    "familyName": "Hirvikoski",
+    "displayName": "Tuomas Hirvikoski",
+    "active": true
+  },
+  {
+    "id": "0ea903ac-f751-5ade-8e63-c317aa1d3e0e",
+    "userName": "ulla.bjorklund",
+    "externalId": "E1003",
+    "givenName": "Ulla",
+    "familyName": "Björklund",
+    "displayName": "Ulla Björklund",
+    "active": true
+  },
+  {
+    "id": "5388046d-f2db-5c67-846b-20857838bd40",
+    "userName": "ville.kettunen",
+    "externalId": "E1027",
+    "givenName": "Ville",
+    "familyName": "Kettunen",
+    "displayName": "Ville Kettunen",
+    "active": true
+  }
+]

@@ -1,0 +1,664 @@
+[
+  {
+    "employeeId": "E1001",
+    "firstName": "Aino",
+    "lastName": "Kivelä",
+    "email": "aino.kivela@routa.example",
+    "department": "Consulting",
+    "title": "Partner",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2014-03-01",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi",
+      "tammiranta"
+    ],
+    "manager": null,
+    "notes": "Approves access to the Hiidenkivi and Tammiranta engagements."
+  },
+  {
+    "employeeId": "E1002",
+    "firstName": "Pekka",
+    "lastName": "Ojanperä",
+    "email": "pekka.ojanpera@routa.example",
+    "department": "Consulting",
+    "title": "Partner",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2015-08-17",
+    "endDate": null,
+    "engagements": [
+      "merivirta",
+      "tammiranta"
+    ],
+    "manager": null,
+    "notes": "Approves access to the Merivirta engagement."
+  },
+  {
+    "employeeId": "E1003",
+    "firstName": "Ulla",
+    "lastName": "Björklund",
+    "email": "ulla.bjorklund@routa.example",
+    "department": "Consulting",
+    "title": "Partner",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2016-01-11",
+    "endDate": null,
+    "engagements": [
+      "lumivaara"
+    ],
+    "manager": null,
+    "notes": "Approves access to the Lumivaara engagement."
+  },
+  {
+    "employeeId": "E1004",
+    "firstName": "Joonas",
+    "lastName": "Vartiainen",
+    "email": "joonas.vartiainen@routa.example",
+    "department": "Consulting",
+    "title": "Engagement Manager",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2019-09-02",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi"
+    ],
+    "manager": "E1001",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1005",
+    "firstName": "Tiina",
+    "lastName": "Söderholm",
+    "email": "tiina.soderholm@routa.example",
+    "department": "Consulting",
+    "title": "Engagement Manager",
+    "type": "employee",
+    "status": "left",
+    "startDate": "2018-04-03",
+    "endDate": "2026-10-16",
+    "engagements": [
+      "tammiranta"
+    ],
+    "manager": "E1001",
+    "notes": "Left 2026-10-16. Laptop returned on her last day."
+  },
+  {
+    "employeeId": "E1006",
+    "firstName": "Heikki",
+    "lastName": "Räsänen",
+    "email": "heikki.rasanen@routa.example",
+    "department": "Consulting",
+    "title": "Engagement Manager",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2017-11-06",
+    "endDate": null,
+    "engagements": [
+      "lumivaara"
+    ],
+    "manager": "E1003",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1007",
+    "firstName": "Johanna",
+    "lastName": "Ek",
+    "email": "johanna.ek@routa.example",
+    "department": "Consulting",
+    "title": "Engagement Manager",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2020-02-17",
+    "endDate": null,
+    "engagements": [
+      "merivirta"
+    ],
+    "manager": "E1002",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1008",
+    "firstName": "Sanna",
+    "lastName": "Lehtimäki",
+    "email": "sanna.lehtimaki@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2022-08-15",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi",
+      "lumivaara"
+    ],
+    "manager": "E1004",
+    "notes": "Moved from Tammiranta to Lumivaara on 2026-10-12. Stays on Hiidenkivi."
+  },
+  {
+    "employeeId": "E1009",
+    "firstName": "Elina",
+    "lastName": "Rautio",
+    "email": "elina.rautio@routa.example",
+    "department": "Consulting",
+    "title": "Senior Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2020-05-04",
+    "endDate": null,
+    "engagements": [
+      "merivirta",
+      "lumivaara"
+    ],
+    "manager": "E1007",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1010",
+    "firstName": "Jari",
+    "lastName": "Mäkelä",
+    "email": "jari.makela@routa.example",
+    "department": "Consulting",
+    "title": "Senior Consultant",
+    "type": "employee",
+    "status": "left",
+    "startDate": "2019-03-18",
+    "endDate": "2026-10-09",
+    "engagements": [
+      "hiidenkivi"
+    ],
+    "manager": "E1004",
+    "notes": "Left 2026-10-09."
+  },
+  {
+    "employeeId": "E1011",
+    "firstName": "Antti",
+    "lastName": "Nieminen",
+    "email": "antti.nieminen@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2023-01-09",
+    "endDate": null,
+    "engagements": [
+      "tammiranta"
+    ],
+    "manager": "E1001",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1012",
+    "firstName": "Laura",
+    "lastName": "Koskinen",
+    "email": "laura.koskinen@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2023-08-14",
+    "endDate": null,
+    "engagements": [
+      "merivirta"
+    ],
+    "manager": "E1007",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1013",
+    "firstName": "Mikko",
+    "lastName": "Pöyhönen",
+    "email": "mikko.poyhonen@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2024-01-08",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi"
+    ],
+    "manager": "E1004",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1014",
+    "firstName": "Riikka",
+    "lastName": "Väisänen",
+    "email": "riikka.vaisanen@routa.example",
+    "department": "Consulting",
+    "title": "Senior Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2018-10-01",
+    "endDate": null,
+    "engagements": [
+      "tammiranta"
+    ],
+    "manager": "E1001",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1015",
+    "firstName": "Olli",
+    "lastName": "Kärnä",
+    "email": "olli.karna@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2024-08-12",
+    "endDate": null,
+    "engagements": [
+      "lumivaara"
+    ],
+    "manager": "E1006",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1016",
+    "firstName": "Emilia",
+    "lastName": "Grönroos",
+    "email": "emilia.gronroos@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2025-02-03",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1003",
+    "notes": "Between engagements since 2026-09-30."
+  },
+  {
+    "employeeId": "E1017",
+    "firstName": "Henrik",
+    "lastName": "Wikström",
+    "email": "henrik.wikstrom@routa.example",
+    "department": "Consulting",
+    "title": "Senior Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2017-06-12",
+    "endDate": null,
+    "engagements": [
+      "merivirta"
+    ],
+    "manager": "E1007",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1018",
+    "firstName": "Satu",
+    "lastName": "Ylönen",
+    "email": "satu.ylonen@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2023-03-06",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi",
+      "tammiranta"
+    ],
+    "manager": "E1004",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1019",
+    "firstName": "Tomi",
+    "lastName": "Lähteenmäki",
+    "email": "tomi.lahteenmaki@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2025-08-11",
+    "endDate": null,
+    "engagements": [
+      "lumivaara"
+    ],
+    "manager": "E1006",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1020",
+    "firstName": "Anna",
+    "lastName": "Lindberg",
+    "email": "anna.lindberg@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2024-09-02",
+    "endDate": null,
+    "engagements": [
+      "merivirta"
+    ],
+    "manager": "E1007",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1021",
+    "firstName": "Maria",
+    "lastName": "Sundqvist",
+    "email": "maria.sundqvist@routa.example",
+    "department": "Analytics",
+    "title": "Analyst",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2024-02-05",
+    "endDate": null,
+    "engagements": [
+      "merivirta",
+      "tammiranta"
+    ],
+    "manager": "E1025",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1022",
+    "firstName": "Katja",
+    "lastName": "Möttönen",
+    "email": "katja.mottonen@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2022-01-10",
+    "endDate": null,
+    "engagements": [
+      "merivirta"
+    ],
+    "manager": "E1007",
+    "notes": "Moved from Analytics to Consulting on 2026-10-13 and joined Merivirta."
+  },
+  {
+    "employeeId": "E1023",
+    "firstName": "Lauri",
+    "lastName": "Häkkinen",
+    "email": "lauri.hakkinen@routa.example",
+    "department": "Analytics",
+    "title": "Analyst",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2023-09-04",
+    "endDate": null,
+    "engagements": [
+      "lumivaara"
+    ],
+    "manager": "E1025",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1024",
+    "firstName": "Sofia",
+    "lastName": "Nyström",
+    "email": "sofia.nystrom@routa.example",
+    "department": "Analytics",
+    "title": "Analyst",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2025-01-13",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1025",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1025",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "email": "james.whitfield@routa.example",
+    "department": "Analytics",
+    "title": "Senior Analyst",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2021-04-12",
+    "endDate": null,
+    "engagements": [
+      "tammiranta"
+    ],
+    "manager": "E1030",
+    "notes": "Leads the analytics team. Admin in the reporting tool."
+  },
+  {
+    "employeeId": "E1026",
+    "firstName": "Tuomas",
+    "lastName": "Hirvikoski",
+    "email": "tuomas.hirvikoski@routa.example",
+    "department": "IT",
+    "title": "IT Lead",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2016-05-02",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1030",
+    "notes": "IT lead. Runs the identity platform and approves IT admin access."
+  },
+  {
+    "employeeId": "E1027",
+    "firstName": "Ville",
+    "lastName": "Kettunen",
+    "email": "ville.kettunen@routa.example",
+    "department": "IT",
+    "title": "IT Specialist",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2022-11-07",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1026",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1028",
+    "firstName": "Päivi",
+    "lastName": "Mönkkönen",
+    "email": "paivi.monkkonen@routa.example",
+    "department": "Finance",
+    "title": "Finance Manager",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2015-02-02",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1030",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1029",
+    "firstName": "Kaisa",
+    "lastName": "Lehto",
+    "email": "kaisa.lehto@routa.example",
+    "department": "Finance",
+    "title": "Accountant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2021-08-16",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1028",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1030",
+    "firstName": "Marja",
+    "lastName": "Hämäläinen",
+    "email": "marja.hamalainen@routa.example",
+    "department": "Operations",
+    "title": "Chief Operating Officer",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2014-09-01",
+    "endDate": null,
+    "engagements": [],
+    "manager": null,
+    "notes": ""
+  },
+  {
+    "employeeId": "E1031",
+    "firstName": "Eeva",
+    "lastName": "Saarinen",
+    "email": "eeva.saarinen@routa.example",
+    "department": "Operations",
+    "title": "Office Manager",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2019-01-14",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1030",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1032",
+    "firstName": "Oona",
+    "lastName": "Kivinen",
+    "email": "oona.kivinen@routa.example",
+    "department": "Operations",
+    "title": "Marketing Coordinator",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2024-03-04",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1030",
+    "notes": "Uses the CRM for events and newsletters."
+  },
+  {
+    "employeeId": "E1033",
+    "firstName": "Minna",
+    "lastName": "Jääskeläinen",
+    "email": "minna.jaaskelainen@routa.example",
+    "department": "People",
+    "title": "HR Manager",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2017-03-13",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1030",
+    "notes": "Keeps the HR system up to date."
+  },
+  {
+    "employeeId": "E1034",
+    "firstName": "Niklas",
+    "lastName": "Holmström",
+    "email": "niklas.holmstrom@routa.example",
+    "department": "People",
+    "title": "HR Coordinator",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2025-05-05",
+    "endDate": null,
+    "engagements": [],
+    "manager": "E1033",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1035",
+    "firstName": "Petri",
+    "lastName": "Lindqvist",
+    "email": "petri.lindqvist@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "left",
+    "startDate": "2021-09-01",
+    "endDate": "2026-03-31",
+    "engagements": [],
+    "manager": "E1003",
+    "notes": "Left 2026-03-31."
+  },
+  {
+    "employeeId": "E1036",
+    "firstName": "Henna",
+    "lastName": "Korpela",
+    "email": "henna.korpela@hiidenkivi.example",
+    "department": "External",
+    "title": "IT Manager, Hiidenkivi Oy",
+    "type": "contractor",
+    "status": "active",
+    "startDate": "2026-09-01",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi"
+    ],
+    "manager": "E1001",
+    "notes": "Hiidenkivi Oy's IT manager. Guest access to the Hiidenkivi engagement while it runs, approved by Aino Kivelä on 2026-08-28."
+  },
+  {
+    "employeeId": "E1037",
+    "firstName": "Aleksi",
+    "lastName": "Mäntylä",
+    "email": "aleksi@mantyla-consulting.example",
+    "department": "External",
+    "title": "Freelance Consultant",
+    "type": "contractor",
+    "status": "active",
+    "startDate": "2026-05-04",
+    "endDate": null,
+    "engagements": [
+      "lumivaara"
+    ],
+    "manager": "E1006",
+    "notes": "Freelancer on the Lumivaara service network study, approved by Ulla Björklund on 2026-04-27."
+  },
+  {
+    "employeeId": "E1038",
+    "firstName": "Väinö",
+    "lastName": "Kärkkäinen",
+    "email": "vaino.karkkainen@routa.example",
+    "department": "Consulting",
+    "title": "Consultant",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2026-10-19",
+    "endDate": null,
+    "engagements": [
+      "tammiranta"
+    ],
+    "manager": "E1014",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1039",
+    "firstName": "Linnea",
+    "lastName": "Åberg",
+    "email": "linnea.aberg@routa.example",
+    "department": "Analytics",
+    "title": "Analyst",
+    "type": "employee",
+    "status": "active",
+    "startDate": "2026-10-20",
+    "endDate": null,
+    "engagements": [
+      "hiidenkivi"
+    ],
+    "manager": "E1025",
+    "notes": ""
+  },
+  {
+    "employeeId": "E1040",
+    "firstName": "Daniel",
+    "lastName": "Hughes",
+    "email": "daniel.hughes@northbeam.example",
+    "department": "External",
+    "title": "Data Engineer",
+    "type": "contractor",
+    "status": "active",
+    "startDate": "2026-10-21",
+    "endDate": null,
+    "engagements": [
+      "merivirta"
+    ],
+    "manager": "E1007",
+    "notes": "Data engineer from Northbeam Data Oy for the Merivirta data work, approved by Pekka Ojanperä on 2026-10-14."
+  }
+]
